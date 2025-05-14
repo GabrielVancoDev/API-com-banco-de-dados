@@ -1,0 +1,24 @@
+{
+  "name": "api-com-banco-de-dados",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielVancoDev/API-com-banco-de-dados.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielVancoDev/API-com-banco-de-dados/issues"
+  },
+  "homepage": "https://github.com/GabrielVancoDev/API-com-banco-de-dados#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
